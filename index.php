@@ -11,7 +11,7 @@
 
 <h2>Olá Mundo! Inicializando app!</h2>
 
-
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid consectetur voluptate nostrum magnam ullam eligendi consequuntur minima pariatur, officiis commodi quia. Magni nemo architecto totam consequatur aspernatur repudiandae accusamus aliquid!</p>
 
 
 <script src="js/script.js"></script>

@@ -1,2 +1,2 @@
 # php-beginner
-testing php scripts
+Iniciando projetos iniciantes com php.
